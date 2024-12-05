@@ -6,6 +6,9 @@ Este notebook tem como objetivo explorar o trabalho com múltiplas bases de dado
 **Conteúdo do Notebook**
 
 **1.Importação e Manipulação de Dados**
+
 **2. Limpeza e Preparação dos Dados**
+
 **3. Exploração de Dados**
+
 **4. Visualização com Diferentes Bibliotecas**
